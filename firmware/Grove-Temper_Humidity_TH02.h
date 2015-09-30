@@ -29,8 +29,8 @@
  * THE SOFTWARE.
  */
  
-#ifndef _TH02_DEV_H
-#define _TH02_DEV_H
+#ifndef _Grove_Temper_Humidity_TH02_H
+#define _Grove_Temper_Humidity_TH02_H
 
 /****************************************************************************/
 /***        Macro Definitions                                             ***/
