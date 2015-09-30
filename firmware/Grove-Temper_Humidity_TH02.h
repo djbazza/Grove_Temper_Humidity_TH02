@@ -28,6 +28,8 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
+
+#include "application.h"
  
 #ifndef _Grove_Temper_Humidity_TH02_H
 #define _Grove_Temper_Humidity_TH02_H
