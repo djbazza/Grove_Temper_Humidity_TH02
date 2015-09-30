@@ -1,6 +1,6 @@
 /*
  * Demo name   : TH02_dev demo 
- * Usage       : DIGITAL I2C HUMIDITY AND TEMPERATURE SENSOR 
+ * Usage       : DIGITAL I2C HUMIDITY AND TEMPERATURE SENSOR MINI 
  * Author      : Oliver Wang from Seeed Studio
  * Version     : V0.1
 */
