@@ -6,8 +6,7 @@
 */
 
 #include <Grove-Temper_Humidity_TH02.h>
-#include "Wire.h" 
- 
+
 void setup()
 {  
   Serial.begin(9600);        // start serial for output
