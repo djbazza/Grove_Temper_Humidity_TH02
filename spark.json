@@ -1,0 +1,7 @@
+{
+  "name": "uber-library-example",
+  "author": "David Barrett <david@make-create.org>",
+  "license": "MIT",
+  "version": "0.0.11",
+  "description": "A grove library that will allow you to use the Tempture&Humidity Sensor (High-Accuracy &Mini) v1.0 with Particle"
+}
