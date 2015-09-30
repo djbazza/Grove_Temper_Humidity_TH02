@@ -5,8 +5,7 @@
  * Version     : V0.1
 */
 
-#include <TH02_dev.h>
-#include "Arduino.h"
+#include <Grove-Temper_Humidity_TH02.h>
 #include "Wire.h" 
  
 void setup()
