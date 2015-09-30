@@ -33,7 +33,6 @@
 /***        Include files                                                 ***/
 /****************************************************************************/
 #include "TH02_dev.h"
-#include <Wire.h>
 /* Use Serial IIC */
 #ifdef SERIAL_IIC
 #endif
