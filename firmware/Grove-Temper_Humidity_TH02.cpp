@@ -34,7 +34,6 @@
 /****************************************************************************/
 #include "TH02_dev.h"
 #include <Wire.h>
-#include <Arduino.h>
 /* Use Serial IIC */
 #ifdef SERIAL_IIC
 #endif
